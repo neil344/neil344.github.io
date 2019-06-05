@@ -1,4 +1,4 @@
-logo: assets/images/avatar.jpg
+---
 layout: page
 title: About this website
 ---
