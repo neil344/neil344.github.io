@@ -1,9 +1,9 @@
 ---
 title: Elements
 feature_text: |
-  A demo of Markdown and HTML includes
+  Coming soon
 feature_image: "https://picsum.photos/2560/600?image=873"
-excerpt: "A demo of Markdown and HTML includes"
+excerpt: "Coming soon includes"
 aside: true
 ---
 
@@ -21,7 +21,6 @@ aside: true
 
 <small>A small element</small>
 
-[A link](https://david.darn.es "A link")
 
 Lorem ipsum dolor sit amet, consectetur adip* isicing elit, sed do eiusmod *tempor incididunt ut labore et dolore magna aliqua.
 
@@ -41,16 +40,6 @@ Duis aute irure dolor in [A link](https://david.darn.es "A link") reprehenderit 
 
 > A simple blockquote
 
-Some HTML...
-
-``` html
-<blockquote cite="http://www.imdb.com/title/tt0284978/quotes/qt1375101">
-  <p>You planning a vacation, Mr. Sullivan?</p>
-  <footer>
-    <a href="http://www.imdb.com/title/tt0284978/quotes/qt1375101">Sunways Security Guard</a>
-  </footer>
-</blockquote>
-```
 
 ...CSS...
 
