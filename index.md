@@ -9,9 +9,9 @@ excerpt: "Neil's genealogy site is a starting point for anyone wanting to resear
 
 Neil's genealogy site is a starting point for anyone wanting to research there Irish family links.
 
-## Features
+## Coming soon
 
-- Available as a **theme gem** and **GitHub Pages** theme
+- All available links for **Genealogy** and **GitHub Pages** theme
 - Simple and elegant design that can be used out of the box or as solid starting point
 - Tested in all major browsers, including **IE and Edge**
 - Built in **Service Worker** so it can work offline and on slow connections
