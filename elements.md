@@ -49,12 +49,6 @@ Duis aute irure dolor in [A link](https://david.darn.es "A link") reprehenderit 
 
 {% include site-form.html %}
 
-### Button include
 
-{% include button.html text="A button with icon" link="https://twitter.com/daviddarnes" icon="twitter" %}
-
-### Icon include
-
-{% include icon.html id="twitter" title="twitter" %} [{% include icon.html id="linkedin" title="twitter" %}](https://www.linkedin.com/in/daviddarnes)
 
 
