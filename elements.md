@@ -57,10 +57,6 @@ Duis aute irure dolor in [A link](https://david.darn.es "A link") reprehenderit 
 
 {% include map.html id="1UT-2Z-Vg_MG_TrS5X2p8SthsJhc" title="Coffee shop map" %}
 
-``` html
-{% raw %}{% include map.html id="XXXXXX" title="Coffee shop map" %}{% endraw %}
-```
-
 ### Button include
 
 {% include button.html text="A button" link="https://david.darn.es" %}
