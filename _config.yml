@@ -116,7 +116,7 @@ navigation_header:
   Fork Alembic: https://github.com/daviddarnes/alembic
 
 navigation_footer:
-Neil walls
+  Neil walls
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
   Twitter: https://twitter.com/DavidDarnes
