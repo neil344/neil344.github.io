@@ -9,8 +9,6 @@ excerpt: "Neil's genealogy site is a starting point for anyone wanting to resear
 
 Neil's genealogy site is a starting point for anyone wanting to research there Irish family links.
 
-{% include button.html text="Fork it" icon="github" link="https://github.com/daviddarnes/alembic" color="#0366d6" %} {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://alembic.darn.es&text=Alembic%20-%20A%20Jekyll%20boilerplate%20theme&via=DavidDarnes" color="#0d94e7" %} {% include button.html text="Install Alembic ⚗️" link="https://github.com/daviddarnes/alembic#installation" %}
-
 ## Features
 
 - Available as a **theme gem** and **GitHub Pages** theme
@@ -28,19 +26,6 @@ Neil's genealogy site is a starting point for anyone wanting to research there I
 - Designed with **[Siteleaf](http://www.siteleaf.com/)** in mind
 - Has 9 of the most popular networks as performant sharing buttons
 - Has documentation
-
-## Examples
-
-Here are a few examples of Alembic out in the wild being used in a variety of ways:
-
-- [bitpodcast.com](https://bitpodcast.com/)
-- [joelcagedesign.com](https://joelcagedesign.com/)
-- [bawejakunal.github.io](https://bawejakunal.github.io/)
-- [case2111.github.io](http://case2111.github.io/)
-- [www.10people.co.uk](http://www.10people.co.uk/)
-- [hrkeni.me](http://hrkeni.me/)
-- [ccs17.bsc.es](https://ccs17.bsc.es/)
-- [karateca.org](http://www.karateca.org/)
 
 ## Installation
 
