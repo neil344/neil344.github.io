@@ -8,7 +8,7 @@ excerpt: "Neil's genealogy site is a starting point for anyone wanting to resear
 ---
 
 Neil's genealogy site is a starting point for anyone wanting to research there Irish family links.
-feature_text:
+
 ## Coming soon
 
 - All available links for **Genealogy** and **GitHub Pages** theme
