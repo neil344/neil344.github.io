@@ -67,7 +67,7 @@ collections:
     output: true
     description: "My thoughts and ideas" # The post list page content
     feature_text: |
-     # Welcome to the blog
+      Welcome to the blog
     feature_image:  "assets/images/pic02.jpg"
 
 # 6. Jekyll collections settings
