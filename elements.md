@@ -2,7 +2,7 @@
 title: Elements
 feature_text: |
  # Coming soon
-feature_image: assets/images/pic03.jpg
+feature_image: "/uploads/feature-image2.jpg"
 excerpt: "Coming soon includes"
 aside: true
 ---
