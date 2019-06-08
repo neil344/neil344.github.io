@@ -27,15 +27,15 @@ Neil's genealogy site is a starting point for anyone wanting to research there I
 - Has 9 of the most popular networks as performant sharing buttons
 - Has documentation
 
-## Installation
+## Let's begin
 
-### As a Jekyll theme
+### where to start
 
-1. Add `gem "alembic-jekyll-theme"` to your `Gemfile` to add the theme as a dependancy
-2. Run the command `bundle install` in the root of project to install the theme and its dependancies
-3. Add `theme: alembic-jekyll-theme` to your `_config.yml` file to set the site theme
-4. Run `bundle exec jekyll serve` to build and serve your site
-5. Done! Use the [configuration](#configuration) documentation and the example [`_config.yml`](https://github.com/daviddarnes/alembic/blob/master/_config.yml) file to set things like the navigation, contact form and social sharing buttons
+1. Pen and paper at the ready, start with questioning family members for old photos
+2. It's very important to get as many birth and death dates as possible, these will help later on when researching
+3. Get a folder to store all relevent information and if working on a computer create a working folder on desktop
+4. Take your time and cross check information
+5. Share your research with other family members who may do the same in return
 
 ### As a GitHub Pages remote theme
 
