@@ -11,11 +11,11 @@ Neil's genealogy site is a starting point for anyone wanting to research there I
 
    Coming soon
 
-- All available links for **Genealogy** and **GitHub Pages** theme
-- Simple and elegant design that can be used out of the box or as solid starting point
+- All available links for **Genealogy** and **census** forms
+- Simple and easy to follow tutorials on reasearching your family tree
 - Tested in all major browsers, including **IE and Edge**
 - Built in **Service Worker** so it can work offline and on slow connections
-- **Configurable colours** and typography in a single settings file
+- **Starting blocks** and typography in a single settings file
 - Extensive set of **shortcodes** to include various elements; such as buttons, icons, figure images and more
 - Solid **typographic framework** from [Sassline](https://sassline.com/)
 - Configurable navigation via a single file
