@@ -68,7 +68,7 @@ collections:
     description: "My thoughts and ideas"
     feature_text: |
      # Welcome to the blog
-    feature_image: assets/images/Pic02.jpg
+    feature_image: assets/images/Home - Copy.jpg
 
 # 6. Jekyll collections settings
 defaults:
