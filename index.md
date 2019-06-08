@@ -21,7 +21,7 @@ Neil's genealogy site is a starting point for anyone wanting to research there I
 - Configurable navigation via a single file
 - All available components
 - Post category support in the form of a single post index page grouped by category
-- Built in live search using JavaScript
+- Griffith’s Primary Valuation Records Search
 - **Contact form** built in 
 - Designed with **amatuers** in mind
 - Has 9 of the most popular networks as performant sharing buttons
