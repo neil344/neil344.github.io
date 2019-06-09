@@ -43,8 +43,7 @@ Neil's genealogy site is a starting point for anyone wanting to research there I
 2. Dates might not be accurate on some records
 3. Spelling mistakes are commonplace on old records
 4. Name changes can also prove tiresome
-5. Run `bundle exec jekyll serve` to build and serve your site
-6. Done! Use the [configuration](#configuration) documentation and the example [`_config.yml`](https://github.com/daviddarnes/alembic/blob/master/_config.yml) file to set things like the navigation, contact form and social sharing buttons
+5. Take your time, no rush
 
 ### As a Boilerplate / Fork
 
