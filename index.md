@@ -37,7 +37,7 @@ Neil's genealogy site is a starting point for anyone wanting to research there I
 4. Take your time and cross check information
 5. Share your research with other family members who may do the same in return
 
-### As a GitHub Pages remote theme
+### Tracing Your Irish Ancestors On The Internet
 
 1. Add `gem "jekyll-remote-theme"` to your `Gemfile` to add the theme as a dependancy
 2. Run the command `bundle install` in the root of project to install the jekyll remote theme gem as a dependancy
