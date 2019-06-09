@@ -39,10 +39,10 @@ Neil's genealogy site is a starting point for anyone wanting to research there I
 
 ### Tracing Your Irish Ancestors On The Internet
 
-1. Add `gem "jekyll-remote-theme"` to your `Gemfile` to add the theme as a dependancy
-2. Run the command `bundle install` in the root of project to install the jekyll remote theme gem as a dependancy
-3. Add `jekyll-remote-theme` to the list of `plugins` in your `_config.yml` file
-4. Add `remote_theme: daviddarnes/alembic` to your `_config.yml` file to set the site theme
+1. Start from present day and work your way back slowly
+2. Dates might not be accurate on some records
+3. Spelling mistakes are commonplace on old records
+4. Name changes can also prove tiresome
 5. Run `bundle exec jekyll serve` to build and serve your site
 6. Done! Use the [configuration](#configuration) documentation and the example [`_config.yml`](https://github.com/daviddarnes/alembic/blob/master/_config.yml) file to set things like the navigation, contact form and social sharing buttons
 
