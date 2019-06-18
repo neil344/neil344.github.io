@@ -1,7 +1,8 @@
 ---
-title: Privacy!
-indexing: false
-sitemap: false
+title: Privacy
+layout: privacy
+excerpt: "Privacy index"
+aside: true
 ---
 
 Privacy rules here.
