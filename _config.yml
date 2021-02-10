@@ -84,7 +84,8 @@ encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
 title: "Neil's Genealogy" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/logo@32px.png" # Site logo, also used in jekyll-seo-tag
-description: "This site is a starting point for projects. Starting from scratch, this site is designed to get the ball rolling immediately" # Site url, also used in jekyll-seo-tag
+description: "This site is a starting point for projects. Helping the novice find help with varios forms of tech" 
+# Site url, also used in jekyll-seo-tag
 baseurl: ""
 repo: "https://neil344.github.io/"
 email: "neilwalls83@hotmail.com"
