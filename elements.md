@@ -11,16 +11,6 @@ aside: true
 
 ## Heading 2
 
-### Heading 3
-
-#### Heading 4
-
-##### Heading 5
-
-###### Heading 6
-
-<small>A small element</small>
-
 
 Lorem ipsum dolor sit amet, consectetur adip* isicing elit, sed do eiusmod *tempor incididunt ut labore et dolore magna aliqua.
 
