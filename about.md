@@ -3,5 +3,5 @@ layout: page
 title: About this website
 ---
 
-I'm not sure yet what this website is about, but I'm sure I'll work it out soon.
+I'm still trying to configure this website, I'm sure I'll work it out soon.
 
