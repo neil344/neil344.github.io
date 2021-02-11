@@ -118,7 +118,6 @@ navigation_footer:
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
   Twitter: https://twitter.com/NeilsArsenal
   GitHub: https://neil344.github.io/
-  RSS: /feed.xml
 
 sharing_links: # Appear at the bottom of single blog posts, uncomment and comment out as desired. Colours set the button colour
   Twitter: "#0d94e7"
