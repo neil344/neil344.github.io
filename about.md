@@ -1,7 +1,6 @@
 ---
 title: Neil Walls
 feature_text: |
-excerpt: "Coming soon includes"
 aside: true
 ---
 
