@@ -1,6 +1,6 @@
 ﻿---
 title: Neil's genealogy 
-feature_text:color #FFFFFF |
+feature_text color #FFFFFF: |
   ## Neil's Genealogy
   A starting point for anyone researching Irish roots 
 feature_image: assets/images/Home.jpg
