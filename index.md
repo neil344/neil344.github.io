@@ -1,5 +1,6 @@
 ﻿---
-title: Neil's genealogy
+title: Neil's genealogy 
+title color #FFFFFF
 feature_text: |
   ## Neil's Genealogy
   A starting point for anyone researching Irish roots
