@@ -1,6 +1,5 @@
 ---
 title: Neil Walls
-feature_text: |
 aside: true
 ---
 
