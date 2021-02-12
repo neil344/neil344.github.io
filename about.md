@@ -1,5 +1,5 @@
 ---
-title: ## Neil Walls
+title: Neil Walls
 aside: true
 ---
 
