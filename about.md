@@ -1,8 +1,6 @@
 ---
 title: Neil Walls
 feature_text: |
- # Coming soon
-feature_image: "/uploads/feature-image2.jpg"
 excerpt: "Coming soon includes"
 aside: true
 ---
