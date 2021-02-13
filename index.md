@@ -1,8 +1,7 @@
 ﻿---
 title: Neil's genealogy 
 feature_text: |
- ## Neil's Genealogy
-  A starting point for anyone researching Irish roots 
+ ## NeilWalls 
 feature_image: assets/images/Home.jpg
 excerpt: "Neil's genealogy site is a starting point for anyone wanting to research there Irish family links."
 ---
