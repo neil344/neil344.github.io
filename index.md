@@ -12,7 +12,9 @@ Ever wanted your own website for free, well today we will do this using gitbub p
    Let's get started
 
 Step one: Go to https://github.com/ and click sign up for Github (figure 1) ![figure 1.jpg](/assets/images/figure 1.jpg){:class="img-responsive"}
-You will be broght to this screen (figure 2) ![figure 2.jpg](/assets/images/figure 2.jpg){:class="img-responsive"} Were you will fill in user name, Email and password. Keep in mind your username will be the name of your website. 
+
+You will be broght to this screen (figure 2) ![figure 2.jpg](/assets/images/figure 2.jpg){:class="img-responsive"} Were you will fill in user name, Email and password. Keep in mind your username will be the name of your website.
+ 
 - Tested in all major browsers, including **IE and Edge**
 - Built in **Neil Mode** so it can work non stop and on slow connections
 - **Starting blocks** and typography in a single settings file
