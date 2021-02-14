@@ -29,13 +29,13 @@ you will now be sent a verification email which when you click verify you will b
 
 You will now find yourself on this screen figure 6 ![figure 6.jpg](/assets/images/figure 6.jpg){:class="img-responsive"}  were you will fill in your repository name, give a short description of your site and make sure to check the box that says "Add a read me file" finally click the green create a repository button on the bottom of screen. 
 
-You should now be on this page, figure 7 ![figure 7.jpg](/assets/images/figure 7.jpg){:class="img-responsive"} were you will click the upper right settings button 
+You should now be on this page, were you will click the upper right settings button ![figure 7.jpg](/assets/images/figure 7.jpg){:class="img-responsive"} 
 
-Scroll down to Github pages section figure 8 ![figure 8.jpg](/assets/images/figure 8.jpg){:class="img-responsive"} and change source from None to Main and click save. 
+Scroll down to Github pages section and change source from None to Main and click save.  ![figure 8.jpg](/assets/images/figure 8.jpg){:class="img-responsive"} 
 
 You should now see something like this figure 9 ![figure 9.jpg](/assets/images/figure 9.jpg){:class="img-responsive"} 
 
-wait a few minutes and it will change to ![figure 15.jpg](/assets/images/figure 15.jpg){:class="img-responsive"} if not just refresh the page. 
+wait a few minutes and it will change to picture below, if not just refresh the page.  ![figure 15.jpg](/assets/images/figure 15.jpg){:class="img-responsive"}  
 
 Cllick the link and you will see your website figure 11 ![figure 11.jpg](/assets/images/figure 11.jpg){:class="img-responsive"} yes it doesn't look like much at the moment but what you are looking at is your repoitory file. 
 
