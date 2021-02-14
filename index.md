@@ -11,7 +11,7 @@ Ever wanted your own website for free, well today we will do this using gitbub p
 
    Let's get started
 
-Step one: Go to https://github.com/ and click sign up for Github (figure 1) [figure 1.jpg](/assets/images/figure 1.jpg){:class="img-responsive"}
+Step one: Go to https://github.com/ and click sign up for Github (figure 1) ![figure 1.jpg](/assets/images/figure 1.jpg){:class="img-responsive"}
 - Simple and easy to follow tutorials on reasearching your family tree
 - Tested in all major browsers, including **IE and Edge**
 - Built in **Neil Mode** so it can work non stop and on slow connections
