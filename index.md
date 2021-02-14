@@ -13,7 +13,7 @@ Ever wanted your own website for free, well today we will do this using gitbub p
 
 Step one: Go to <a href="https://github.com">Github</a>. and click sign up for Github (figure 1) ![figure 1.jpg](/assets/images/figure 1.jpg){:class="img-responsive"}
 
-You will be brought to this screen were you will fill in user name, Email and password. Keep in mind your username will be the name of your website.  ![figure 2.jpg](/assets/images/figure 2.jpg){:class="img-responsive"} . 
+You will be brought to this screen were you will fill in user name, Email and password. Keep in mind your username will be be public so you may want to use your real name or nickname.  ![figure 2.jpg](/assets/images/figure 2.jpg){:class="img-responsive"} . 
 
 Click create account  
 
