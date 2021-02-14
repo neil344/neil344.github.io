@@ -17,16 +17,15 @@ You will be brought to this screen were you will fill in user name, Email and pa
 
 Click create account  
 
-You will now be on this screen Were you will be asked 3 questions 
-1. What kind of work do you do mainly? I just answered "Other". 
+You will now be on this screen were you will be asked 3 questions 
+1. What kind of work do you do, mainly? I just answered "Other". 
 2. How much programming experience do you have? I answered "None". 
 3. What do you plan to use GitHub for? I answered "Create a website with Github pages".  ![figure 3.jpg](/assets/images/figure 3.jpg){:class="img-responsive"} 
 
 Now click Complete setup ![figure 4.jpg](/assets/images/figure 4.jpg){:class="img-responsive"}
  
-you will now be sent a verification email which when you click verify you will be directed to this page figure 5 ![figure 5.jpg](/assets/images/figure 5.jpg){:class="img-responsive"} 
-
-Click the first option "Create a new repository"  
+you will now be sent a verification email which when you click verify you will be directed to this page. Click the first option "Create a repository" ![figure 5.jpg](/assets/images/figure 5.jpg){:class="img-responsive"} 
+  
 
 You will now find yourself on this screen figure 6 ![figure 6.jpg](/assets/images/figure 6.jpg){:class="img-responsive"}  were you will fill in your repository name, give a short description of your site and make sure to check the box that says "Add a read me file" finally click the green create a repository button on the bottom of screen. 
 
