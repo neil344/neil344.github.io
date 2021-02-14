@@ -13,16 +13,16 @@ Ever wanted your own website for free, well today we will do this using gitbub p
 
 Step one: Go to https://github.com/ and click sign up for Github (figure 1) ![figure 1.jpg](/assets/images/figure 1.jpg){:class="img-responsive"}
 
-You will be brought to this screen (figure 2) ![figure 2.jpg](/assets/images/figure 2.jpg){:class="img-responsive"} Were you will fill in user name, Email and password. Keep in mind your username will be the name of your website. 
+You will be brought to this screen were you will fill in user name, Email and password. Keep in mind your username will be the name of your website.  ![figure 2.jpg](/assets/images/figure 2.jpg){:class="img-responsive"} . 
 
 Click create account  
 
-You will now be on this screen (figure 3) ![figure 3.jpg](/assets/images/figure 3.jpg){:class="img-responsive"} Were you will be asked 3 questions 
+You will now be on this screen Were you will be asked 3 questions 
 1. What kind of work do you do mainly? I just answered "Other". 
 2. How much programming experience do you have? I answered "None". 
-3. What do you plan to use GitHub for? I answered "Create a website with Github pages". 
+3. What do you plan to use GitHub for? I answered "Create a website with Github pages".  ![figure 3.jpg](/assets/images/figure 3.jpg){:class="img-responsive"} 
 
-Now click Complete setup figure 4 ![figure 4.jpg](/assets/images/figure 4.jpg){:class="img-responsive"}
+Now click Complete setup ![figure 4.jpg](/assets/images/figure 4.jpg){:class="img-responsive"}
  
 you will now be sent a verification email which when you click verify you will be directed to this page figure 5 ![figure 5.jpg](/assets/images/figure 5.jpg){:class="img-responsive"} 
 
