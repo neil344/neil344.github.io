@@ -1,16 +1,17 @@
 ﻿---
-title: Creating a free website using Github pages 
+title: Create a free website using Github pages 
 feature_text: |
- ## NeilWalls 
+ ## Neil Walls 
 feature_image: assets/images/Home.jpg
-excerpt: "Neil's genealogy site is a starting point for anyone wanting to research there Irish family links."
+excerpt: "Ever wanted your own website for free, well today we will do this using gitbub pages."
 ---
+
 
 Ever wanted your own website for free, well today we will do this using gitbub pages.
 
-   Coming soon
+   Let's get started
 
-- All available links for **Genealogy** and **census** forms
+Step one: Go to https://github.com/ and click sign up for Github (figure 1) [figure 1.jpg](/assets/images/figure 1.jpg){:class="img-responsive"}
 - Simple and easy to follow tutorials on reasearching your family tree
 - Tested in all major browsers, including **IE and Edge**
 - Built in **Neil Mode** so it can work non stop and on slow connections
