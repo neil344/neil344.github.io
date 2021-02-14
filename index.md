@@ -35,7 +35,7 @@ Scroll down to Github pages section figure 8 ![figure 8.jpg](/assets/images/figu
 
 You should now see something like this figure 9 ![figure 9.jpg](/assets/images/figure 9.jpg){:class="img-responsive"} 
 
-wait a few minutes and it will change to Figure 10 ![figure 10.jpg](/assets/images/figure 10.jpg){:class="img-responsive"} if not just refresh page. 
+wait a few minutes and it will change to ![figure 10.jpg](/assets/images/figure 10.jpg){:class="img-responsive"} if not just refresh page. 
 
 Cllick the link and you will see your website figure 11 ![figure 11.jpg](/assets/images/figure 11.jpg){:class="img-responsive"} yes it doesn't look like much at the moment but what you are looking at is your repoitory file. 
 
