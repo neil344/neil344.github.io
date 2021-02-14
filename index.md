@@ -37,7 +37,7 @@ You should now see something like this figure 9 ![figure 9.jpg](/assets/images/f
 
 wait a few minutes and it will change to picture below, if not just refresh the page.  ![figure 15.jpg](/assets/images/figure 15.jpg){:class="img-responsive"}  
 
-Cllick the link and you will see your website figure 11 ![figure 11.jpg](/assets/images/figure 11.jpg){:class="img-responsive"} yes it doesn't look like much at the moment but what you are looking at is your repoitory file. 
+Cllick the link and you will see your website, yes it doesn't look like much at the moment but what you are looking at is your repository file.  ![figure 11.jpg](/assets/images/figure 11.jpg){:class="img-responsive"} 
 
 We can go back to the repository and make changes to the read me file by clicking on the pencil icon figure 12 ![figure 12.jpg](/assets/images/figure 12.jpg){:class="img-responsive"} 
 
