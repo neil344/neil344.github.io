@@ -13,45 +13,38 @@ Ever wanted your own website for free, well today we will do this using gitbub p
 
 Step one: Go to https://github.com/ and click sign up for Github (figure 1) ![figure 1.jpg](/assets/images/figure 1.jpg){:class="img-responsive"}
 
-You will be broght to this screen (figure 2) ![figure 2.jpg](/assets/images/figure 2.jpg){:class="img-responsive"} Were you will fill in user name, Email and password. Keep in mind your username will be the name of your website.
+You will be brought to this screen (figure 2) ![figure 2.jpg](/assets/images/figure 2.jpg){:class="img-responsive"} Were you will fill in user name, Email and password. Keep in mind your username will be the name of your website. 
+
+Click create account  
+
+You will now be on this screen (figure 3) ![figure 3.jpg](/assets/images/figure 3.jpg){:class="img-responsive"} Were you will be asked 3 questions 
+1. What kind of work do you do mainly? I just answered "Other". 
+2. How much programming experience do you have? I answered "None". 
+3. What do you plan to use GitHub for? I answered "Create a website with Github pages". 
+
+Now click Complete setup figure 4 ![figure 4.jpg](/assets/images/figure 4.jpg){:class="img-responsive"}
  
-- Tested in all major browsers, including **IE and Edge**
-- Built in **Neil Mode** so it can work non stop and on slow connections
-- **Starting blocks** and typography in a single settings file
-- Extensive set of **shortcodes** to include various elements; such as buttons, icons, figure images and more
-- Original maps from the 1800s
-- Configurable navigation via a single file
-- All available components
-- Post category support in the form of a single post index page grouped by category
-- Griffith’s Primary Valuation Records Search
-- **Contact form** built in 
-- Designed with **amatuers** in mind
-- Has 9 of the most popular networks as performant sharing buttons
-- Has documentation
+you will now be sent a verification email which when you click verify you will be directed to this page figure 5 ![figure 5.jpg](/assets/images/figure 5.jpg){:class="img-responsive"} 
 
-## Let's begin
+Click the first option "Create a new repository"  
 
-### where to start
+You will now find yourself on this screen figure 6 ![figure 6.jpg](/assets/images/figure 6.jpg){:class="img-responsive"}  were you will fill in your repository name, give a short description of your site and make sure to check the box that says "Add a read me file" finally click the green create a repository button on the bottom of screen. 
 
-1. Pen and paper at the ready, start with questioning family members for old photos
-2. It's very important to get as many birth and death dates as possible, these will help later on when researching
-3. Get a folder to store all relevent information and if working on a computer create a working folder on desktop
-4. Take your time and cross check information
-5. Share your research with other family members who may do the same in return
+You should now be on this page, figure 7 ![figure 7.jpg](/assets/images/figure 7.jpg){:class="img-responsive"} were you will click the upper right settings button 
 
-### Tracing Your Irish Ancestors On The Internet
+Scroll down to Github pages section figure 8 ![figure 8.jpg](/assets/images/figure 8.jpg){:class="img-responsive"} and change source from None to Main and click save. 
 
-1. Start from present day and work your way back slowly
-2. Dates might not be accurate on some records
-3. Spelling mistakes are commonplace on old records
-4. Name changes can also prove tiresome
-5. Take your time, no rush
+You should now see something like this figure 9 ![figure 9.jpg](/assets/images/figure 9.jpg){:class="img-responsive"} 
 
-### The 1922 fire
+wait a few minutes and it will change to Figure 10 ![figure 10.jpg](/assets/images/figure 10.jpg){:class="img-responsive"} if not just refresh page. 
 
+Cllick the link and you will see your website figure 11 ![figure 11.jpg](/assets/images/figure 11.jpg){:class="img-responsive"} yes it doesn't look like much at the moment but what you are looking at is your repoitory file. 
 
-Will be discussing the great fire at length of what records were destroyed and what survived.
+We can go back to the repository and make changes to the read me file by clicking on the pencil icon figure 12 ![figure 12.jpg](/assets/images/figure 12.jpg){:class="img-responsive"} 
 
-## Customising
+We can now edit it and click commit changes figure 13 ![figure 13.jpg](/assets/images/figure 13.jpg){:class="img-responsive"} 
 
-More to come here.
+ 
+Congratulations you now have your first website figure 14 ![figure 14.jpg](/assets/images/figure 14.jpg){:class="img-responsive"} 
+
+In further posts we will add pictures to our website and add themes.
