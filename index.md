@@ -46,4 +46,4 @@ We can now edit it and click commit changes figure 13 ![figure 13.jpg](/assets/i
  
 Congratulations you now have your first website figure 14 ![figure 14.jpg](/assets/images/figure 14.jpg){:class="img-responsive"} 
 
-In further posts we will add pictures to our website and add themes.
+In further posts we will add pictures to our website and add themes
