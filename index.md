@@ -1,12 +1,12 @@
 ﻿---
-title: Neil's genealogy 
+title: Creating a free website using Github pages 
 feature_text: |
  ## NeilWalls 
 feature_image: assets/images/Home.jpg
 excerpt: "Neil's genealogy site is a starting point for anyone wanting to research there Irish family links."
 ---
 
-Neil's genealogy site is a starting point for anyone wanting to research there Irish family links.
+Ever wanted your own website for free, well today we will do this using gitbub pages.
 
    Coming soon
 
