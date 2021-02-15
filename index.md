@@ -16,7 +16,7 @@ Go to <a href="https://github.com">Github</a>. and click sign up for Github ![fi
 You will be brought to this screen were you will fill in user name, Email and password... Click create account  ![figure 2.jpg](/assets/images/figure 2.jpg){:class="img-responsive"} . 
 
   
-You will now be on this screen were you will answer3 questions 
+You will now be on this screen were you will answer 3 questions 
 ![figure 3.jpg](/assets/images/figure 3.jpg){:class="img-responsive"} 
 
 Now click Complete setup ![figure 4.jpg](/assets/images/figure 4.jpg){:class="img-responsive"}
@@ -24,7 +24,7 @@ Now click Complete setup ![figure 4.jpg](/assets/images/figure 4.jpg){:class="im
 You will now be sent a verification email which when you click verify you will be directed to this page. Click the first option "Create a repository" ![figure 5.jpg](/assets/images/figure 5.jpg){:class="img-responsive"} 
   
 
-You will now find yourself on this screen were you will fill in your repository name, description, and make sure to check the box that says "Add a read me file", click create a repository button.  ![figure 6.jpg](/assets/images/figure 6.jpg){:class="img-responsive"}  
+Fill in your repository name, description, and make sure to check the box that says "Add a read me file", click create a repository button.  ![figure 6.jpg](/assets/images/figure 6.jpg){:class="img-responsive"}  
 
 You should now be on this page, were you will click the upper right settings button ![figure 7.jpg](/assets/images/figure 7.jpg){:class="img-responsive"} 
 
