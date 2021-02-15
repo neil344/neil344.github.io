@@ -21,7 +21,7 @@ You will now be on this screen were you will answer3 questions
 
 Now click Complete setup ![figure 4.jpg](/assets/images/figure 4.jpg){:class="img-responsive"}
  
-you will now be sent a verification email which when you click verify you will be directed to this page. Click the first option "Create a repository" ![figure 5.jpg](/assets/images/figure 5.jpg){:class="img-responsive"} 
+You will now be sent a verification email which when you click verify you will be directed to this page. Click the first option "Create a repository" ![figure 5.jpg](/assets/images/figure 5.jpg){:class="img-responsive"} 
   
 
 You will now find yourself on this screen were you will fill in your repository name, description, and make sure to check the box that says "Add a read me file", click create a repository button.  ![figure 6.jpg](/assets/images/figure 6.jpg){:class="img-responsive"}  
