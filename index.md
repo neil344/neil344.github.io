@@ -34,13 +34,13 @@ You should now see this ![figure 9.jpg](/assets/images/figure 9.jpg){:class="img
 
 wait a few minutes and it will change to picture below, if not just refresh the page.  ![figure 15.jpg](/assets/images/figure 15.jpg){:class="img-responsive"}  
 
-Click the link and you will see your website, yes it doesn't look great at the moment but what you are looking at is your README file.  ![figure 11.jpg](/assets/images/figure 11.jpg){:class="img-responsive"} 
+Click the link and you will see your website, yes it doesn't look great but can change that by adding a theme.  ![figure 11.jpg](/assets/images/figure 11.jpg){:class="img-responsive"} 
 
-We can go back to the repository and make changes to the read me file by clicking on the pencil icon ![figure 12.jpg](/assets/images/figure 12.jpg){:class="img-responsive"} 
+We can go back to settings and scroll down to themes and click "choose a theme"  ![figure 12.jpg](/assets/images/figure 12.jpg){:class="img-responsive"} 
 
-We can now edit it and click commit changes ![figure 13.jpg](/assets/images/figure 13.jpg){:class="img-responsive"} 
+You will now be on this screen, just click select theme ![figure 13.jpg](/assets/images/figure 13.jpg){:class="img-responsive"} 
 
  
-Congratulations you now have your first website ![figure 14.jpg](/assets/images/figure 14.jpg){:class="img-responsive"} 
+Congratulations you now have your first website.. If it doesn't show straight away just refresh ![figure 14.jpg](/assets/images/figure 14.jpg){:class="img-responsive"} 
 
-In further posts we will add pictures to our website and add themes
+In further posts we will add pictures to our website and add further themes
