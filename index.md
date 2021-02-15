@@ -11,22 +11,20 @@ Ever wanted your own website for free, well today we will do this using gitbub p
 
    Let's get started
 
-Step one: Go to <a href="https://github.com">Github</a>. and click sign up for Github (figure 1) ![figure 1.jpg](/assets/images/figure 1.jpg){:class="img-responsive"}
+Step one: Go to <a href="https://github.com">Github</a>. and click sign up for Github ![figure 1.jpg](/assets/images/figure 1.jpg){:class="img-responsive"}
 
-You will be brought to this screen were you will fill in user name, Email and password. Keep in mind your username will be public so you may want to use your real name or nickname... Click create account  ![figure 2.jpg](/assets/images/figure 2.jpg){:class="img-responsive"} . 
+You will be brought to this screen were you will fill in user name, Email and password... Click create account  ![figure 2.jpg](/assets/images/figure 2.jpg){:class="img-responsive"} . 
 
   
-You will now be on this screen were you will be asked 3 questions 
-1. What kind of work do you do, mainly? I just answered "Other". 
-2. How much programming experience do you have? I answered "None". 
-3. What do you plan to use GitHub for? I answered "Create a website with Github pages".  ![figure 3.jpg](/assets/images/figure 3.jpg){:class="img-responsive"} 
+You will now be on this screen were you will answer3 questions 
+![figure 3.jpg](/assets/images/figure 3.jpg){:class="img-responsive"} 
 
 Now click Complete setup ![figure 4.jpg](/assets/images/figure 4.jpg){:class="img-responsive"}
  
 you will now be sent a verification email which when you click verify you will be directed to this page. Click the first option "Create a repository" ![figure 5.jpg](/assets/images/figure 5.jpg){:class="img-responsive"} 
   
 
-You will now find yourself on this screen figure 6 ![figure 6.jpg](/assets/images/figure 6.jpg){:class="img-responsive"}  were you will fill in your repository name, give a short description of your site and make sure to check the box that says "Add a read me file" finally click the green create a repository button on the bottom of screen. 
+You will now find yourself on this screen ![figure 6.jpg](/assets/images/figure 6.jpg){:class="img-responsive"}  were you will fill in your repository name, description of your site and make sure to check the box that says "Add a read me file" finally click create a repository button. 
 
 You should now be on this page, were you will click the upper right settings button ![figure 7.jpg](/assets/images/figure 7.jpg){:class="img-responsive"} 
 
