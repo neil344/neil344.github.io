@@ -12,8 +12,24 @@ A lover of tech and social media, sometimes things go wrong but I peservere and 
 
 ### Contact form
 
-{% include site-form.html %}
+{% include site-form.html %} 
 
+<form
+  action="https://formspree.io/f/myybajdd"
+  method="POST"
+>
+  <label>
+    Your email:
+    <input type="text" name="_replyto">
+  </label>
+  <label>
+    Your message:
+    <textarea name="message"></textarea>
+  </label>
 
+  <!-- your other form fields go here -->
+
+  <button type="submit">Send</button>
+</form>
 
 
