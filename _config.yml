@@ -90,7 +90,7 @@ baseurl: ""
 repo: "https://neil344.github.io/"
 email: "neilwalls83@hotmail.com"
 # google_analytics: ''
-# service_worker: false # Will turn off the service worker if set to false
+# service_worker: true # Will turn off the service worker if set to false
 css_inline: true # Will insert all styles into a single <style> block in the <head> element and remove the style <link> reference
 
 # 8. Site favicons & manifest icons
