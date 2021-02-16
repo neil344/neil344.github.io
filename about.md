@@ -12,8 +12,6 @@ A lover of tech and social media, sometimes things go wrong but I peservere and 
 
 ### Contact form
 
-{% include site-form.html %} 
-
 <form
   action="https://formspree.io/f/myybajdd"
   method="POST"
