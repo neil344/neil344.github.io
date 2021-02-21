@@ -43,4 +43,4 @@ You will now be on this screen, just click select theme ![figure 13.jpg](/assets
  
 Congratulations you now have your first website.. If it doesn't show straight away just refresh ![figure 14.jpg](/assets/images/figure 14.jpg){:class="img-responsive"} 
 
-In further posts we will add pictures to our website and add further themes
+In our next post we will add pictures to our website and configure the header
