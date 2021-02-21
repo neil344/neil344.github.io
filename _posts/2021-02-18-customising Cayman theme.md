@@ -42,20 +42,21 @@ we now need to go to <a href="https://github.com/pages-themes/cayman/blob/master
 
 now lets go into _layouts/default.html and look for "</head>" delete everything below it and replace with 
 
-&lt;header class=&quot;page-header&quot;  &lt;br /&gt;&lt;br /&gt;<br />
-        role=&quot;banner&quot;&gt;&lt;br /&gt;&lt;br /&gt;<br />
-      &lt;h1 class=&quot;project-name&quot;&gt;My website&lt;/h1&gt;&lt;br /&gt;&lt;br /&gt;<br />
-&lt;/header&gt;&lt;br /&gt;&lt;br /&gt;<br />
-&lt;main id=&quot;content&quot; class=&quot;main-content&quot; role=&quot;main&quot;&gt;&lt;br /&gt;&lt;br /&gt;<br />
-       {{ content }}&lt;br /&gt;&lt;br /&gt;<br />
-      &lt;footer class=&quot;site-footer&quot;&gt; &lt;br /&gt;&lt;br /&gt;<br />
-   2021 your name&lt;br /&gt;&lt;br /&gt;<br />
-      &lt;/footer&gt;&lt;br /&gt;&lt;br /&gt;<br />
-&lt;/main&gt; 
+<header class="page-header"  
+        role="banner">
+      <h1 class="project-name">My website</h1>
+</header>
+<main id="content" class="main-content" role="main">
+       {{ content }}
+      <footer class="site-footer"> 
+   2021 your name
+      </footer>
+</main> 
 
 
 Now click commit to file 
  
+
 And hey presto ![figure 38.jpg](/assets/images/figure 38.jpg){:class="img-responsive"}  
 
 
