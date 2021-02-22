@@ -61,14 +61,14 @@ And hey presto  ![figure 44.jpg](/assets/images/figure 44.jpg){:class="img-respo
 
 
 
-  <script
-  async
-  src="https://utteranc.es/client.js"
-  repo="<neil344.github.io>"
-  issue-term="title"
-  theme="github-light"
-  crossorigin="anonymous"
-></script>
+ <script src="https://utteranc.es/client.js"
+        repo="neil344/neil344.github.io"
+        issue-term="pathname"
+        label="Comment "
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
 
 
 
