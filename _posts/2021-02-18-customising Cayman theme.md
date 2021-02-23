@@ -47,7 +47,7 @@ we now need to go to <a href="https://github.com/pages-themes/cayman/blob/master
 
 now lets go into _layouts/default.html and look for "</head>" delete everything below it and replace with 
 
-&lt; 
+ ```html 
 <header class="page-header"  
         role="banner">
       <h1 class="project-name">My website</h1>
@@ -57,7 +57,7 @@ now lets go into _layouts/default.html and look for "</head>" delete everything 
       <footer class="site-footer"> 
    </footer>
 </main> 
-&gt;
+ ```
 
 
 Now click commit to file 
