@@ -57,8 +57,7 @@ now lets go into _layouts/default.html and look for "</head>" delete everything 
       <footer class="site-footer"> 
    </footer>
 </main> 
- 
-```  
+```html 
 
 
 Now click commit to file 
