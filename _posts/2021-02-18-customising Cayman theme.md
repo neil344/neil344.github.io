@@ -46,18 +46,8 @@ we now need to go to <a href="https://github.com/pages-themes/cayman/blob/master
   and copy the contents of file and then go back to our _layouts/default.html and paste the contents into it and click commit to file. 
 
 now lets go into _layouts/default.html and look for "</head>" delete everything below it and replace with 
-
- ```html 
-<header class="page-header"  
-        role="banner">
-      <h1 class="project-name">My website</h1>
-</header>
-<main id="content" class="main-content" role="main">
-       {{ content }}
-      <footer class="site-footer"> 
-   </footer>
-</main> 
- ```
+![figure 42.jpg](/assets/images/figure 42.jpg){:class="img-responsive"} 
+ 
 
 
 Now click commit to file 
@@ -69,9 +59,9 @@ And hey presto  ![figure 44.jpg](/assets/images/figure 44.jpg){:class="img-respo
 
 
 <script src="https://utteranc.es/client.js"
-        repo="your-github-username/your-github-repo" 
+        repo="neil344/neil344.github.io" 
         issue-term="pathname"
-        theme="github-dark"
+        theme="github-light"
         label="comment"
         crossorigin="anonymous"
         async>
