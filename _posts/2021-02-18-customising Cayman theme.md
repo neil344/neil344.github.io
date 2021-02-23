@@ -46,6 +46,7 @@ we now need to go to <a href="https://github.com/pages-themes/cayman/blob/master
   and copy the contents of file and then go back to our _layouts/default.html and paste the contents into it and click commit to file. 
 
 now lets go into _layouts/default.html and look for "</head>" delete everything below it and replace with 
+ 
 ![figure 42.jpg](/assets/images/figure 42.jpg){:class="img-responsive"} 
  
 
