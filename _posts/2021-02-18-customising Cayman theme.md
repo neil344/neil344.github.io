@@ -47,7 +47,7 @@ we now need to go to <a href="https://github.com/pages-themes/cayman/blob/master
 
 now lets go into _layouts/default.html and look for "</head>" delete everything below it and replace with 
 
- ```html 
+```html 
 <header class="page-header"  
         role="banner">
       <h1 class="project-name">My website</h1>
@@ -57,7 +57,7 @@ now lets go into _layouts/default.html and look for "</head>" delete everything 
       <footer class="site-footer"> 
    </footer>
 </main> 
- ```
+```
 
 
 Now click commit to file 
@@ -71,7 +71,7 @@ And hey presto  ![figure 44.jpg](/assets/images/figure 44.jpg){:class="img-respo
 <script src="https://utteranc.es/client.js"
         repo= "neil344/neil344.github.io" 
         issue-term="pathname"
-        theme="github-dark"
+        theme="github-light"
         label="comment"
         crossorigin="anonymous"
         async>
