@@ -47,7 +47,17 @@ we now need to go to <a href="https://github.com/pages-themes/cayman/blob/master
 
 now lets go into _layouts/default.html and look for "</head>" delete everything below it and replace with 
 
-![figure 42.jpg](/assets/images/figure 42.jpg){:class="img-responsive"}  
+```html 
+<header class="page-header"  
+        role="banner">
+      <h1 class="project-name">My website</h1>
+</header>
+<main id="content" class="main-content" role="main">
+       {{ content }}
+      <footer class="site-footer"> 
+   </footer>
+</main> 
+```  
 
 
 Now click commit to file 
