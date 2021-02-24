@@ -7,7 +7,7 @@ feature_text: |
   Meet Utterances.
 ---
 
-Well, I was going to write a big long post about adding comments to my site and how long it took for a newbie like myself, until that is I heard about <a href="https://utteranc.es/">Utterances</a> by href="https://github.com/jdanyow">Jeremy Danyow</a>. 
+Well, I was going to write a big long post about adding comments to my site and how long it took for a newbie like myself, until that is I heard about <a href="https://utteranc.es/">Utterances</a> by <a href="https://github.com/jdanyow">Jeremy Danyow</a>. 
 
 It does what it says and takes only a few minutes to setup. Head on over to <a href="https://github.com/apps/utterances">Utterances app</a> and install on your repo and then add this script to the page you want the comments to appear. 
 
