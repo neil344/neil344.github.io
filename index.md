@@ -43,4 +43,15 @@ You will now be on this screen, just click select theme ![figure 13.jpg](/assets
  
 Congratulations you now have your first website.. If it doesn't show straight away just refresh ![figure 14.jpg](/assets/images/figure 14.jpg){:class="img-responsive"} 
 
-In our next post we will add pictures to our website and configure the header
+In our next post we will add pictures to our website and configure the header 
+
+
+
+<script src="https://utteranc.es/client.js"
+        repo="neil344/neil344.github.io" 
+        issue-term="pathname"
+        theme="github-light"
+        label="comment"
+        crossorigin="anonymous"
+        async>
+</script> 
