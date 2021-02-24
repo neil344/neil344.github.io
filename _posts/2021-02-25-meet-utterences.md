@@ -9,7 +9,7 @@ feature_text: |
 
 Well, I was going to write a big long post about adding comments to my site and how long it took for a newbie like myself, until that is I heard about <a href="https://utteranc.es/">Utterances</a> by <a href="https://github.com/jdanyow">Jeremy Danyow</a>. 
 
-It does what it says and takes only a few minutes to setup. install the <a href="https://github.com/apps/utterances">Utterances app</a> on your repo and then add this script to the page you want the comments to appear. 
+It does what it says and takes only a few minutes to setup. Install the <a href="https://github.com/apps/utterances">Utterances app</a> on your repo and then add this script to the page you want the comments to appear. 
 
 ```html
   <script src="https://utteranc.es/client.js"
