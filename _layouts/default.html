@@ -36,7 +36,8 @@
     {% if site.google_analytics %}{% include site-analytics.html %}{% endif %}
 
     {% include site-before-start.html %}
-  </head>
+  </head> 
+  <meta name=viewport content="width=device-width, initial-scale=1">
 
   <body class="layout-{{ page.layout }}{% if page.title %}  {{ page.title | slugify }}{% endif %}">
     {% include site-icons.svg %}
