@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Adding comments to your blog
+title: Meet Utterances
 categories:
 - Web
 feature_text: |
-  Meet Utterances.
+  Adding comments to your blog
 ---
 
 Well, I was going to write a big long post about adding comments to my site and how long it took for a newbie like myself, until that is I heard about <a href="https://utteranc.es/">Utterances</a> by <a href="https://github.com/jdanyow">Jeremy Danyow</a>. 
