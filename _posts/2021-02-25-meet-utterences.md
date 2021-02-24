@@ -26,7 +26,7 @@ Nothing more to say, it just works, people just have to log into GitHub to comme
 
 
 <script src="https://utteranc.es/client.js"
-        repo="OWNER/NAME" 
+        repo="neil344/neil344.github.io" 
         issue-term="pathname"
         theme="github-light"
         label="comment"
