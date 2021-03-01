@@ -69,6 +69,10 @@ Add the following to top <code class="language-plaintext highlighter-rouge">[Hom
 Add the same to the top of contact.md and about.md and save and we should now have something like this ![figure 55.jpg](/assets/images/figure 55.jpg){:class="img-responsive"}  
 
 
+
+
+
+
 in our next post we will set up the blog and post folder 
 
 
