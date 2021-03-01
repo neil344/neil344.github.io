@@ -54,7 +54,22 @@ now lets go into _layouts/default.html and look for "</head>" delete everything 
 Now click commit to file 
  
 
-And hey presto  ![figure 44.jpg](/assets/images/figure 44.jpg){:class="img-responsive"}  
+And hey presto  ![figure 44.jpg](/assets/images/figure 44.jpg){:class="img-responsive"} 
+
+Now let's add an about page and contact page. 
+Go to our repository and click add file/create new file and name it about.md and then click "commit to file" ![figure 51.jpg](/assets/images/figure 51.jpg){:class="img-responsive"}  
+
+Now let's go back to repo and click add file/create new file and name it contact.md and click commit to file ![figure 52.jpg](/assets/images/figure 52.jpg){:class="img-responsive"}  
+
+Now let's go back to our repo and click Index md and then click pencil icon to edit ![figure 53.jpg](/assets/images/figure 53.jpg){:class="img-responsive"}  
+
+Add the following to top [Home](index.md) | [Contact](contact.md) | [About](about.md) and then click commit changes ![figure 54.jpg](/assets/images/figure 54.jpg){:class="img-responsive"}  
+
+Add the same to the top of contact.md and about.md and save and we should now have something like this ![figure 55.jpg](/assets/images/figure 55.jpg){:class="img-responsive"}  
+
+in our next post we will set up the blog and post folder 
+
+ 
 
 
 
