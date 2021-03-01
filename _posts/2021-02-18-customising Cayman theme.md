@@ -45,7 +45,7 @@ Name this _layouts/default.html and then commit new file ![figure 50.jpg](/asset
 we now need to go to <a href="https://github.com/pages-themes/cayman/blob/master/_layouts/default.html">https://github.com/pages-themes/cayman/blob/master/_layouts/default.html</a>
   and copy the contents of file and then go back to our _layouts/default.html and paste the contents into it and click commit to file. 
 
-now lets go into _layouts/default.html and look for "</head>" delete everything below it and replace with <code class="language-plaintext highlighter-rouge"><header class="page-header"  
+now lets go into _layouts/default.html and look for "</head>" delete everything below it and replace with <code class="language-plaintext highlighter-rouge"> <header class="page-header"  
         role="banner">
       <h1 class="project-name">My website</h1>
 </header>
@@ -54,7 +54,7 @@ now lets go into _layouts/default.html and look for "</head>" delete everything 
       <footer class="site-footer"> 
    2021 your name
       </footer>
-</main></code>
+</main> </code>
  
 
 
