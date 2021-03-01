@@ -63,7 +63,7 @@ Now let's go back to repo and click add file/create new file and name it contact
 
 Now let's go back to our repo and click Index md and then click pencil icon to edit ![figure 53.jpg](/assets/images/figure 53.jpg){:class="img-responsive"}  
 
-Add the following to top [Home](index.md) | [Contact](contact.md) | [About](about.md) and then click commit changes ![figure 54.jpg](/assets/images/figure 54.jpg){:class="img-responsive"}  
+Add the following to top <code class="language-plaintext highlighter-rouge">[Home](index.md) | [Contact](contact.md) | [About](about.md)</code> and then click commit changes ![figure 54.jpg](/assets/images/figure 54.jpg){:class="img-responsive"}  
 
 Add the same to the top of contact.md and about.md and save and we should now have something like this ![figure 55.jpg](/assets/images/figure 55.jpg){:class="img-responsive"}  
 
