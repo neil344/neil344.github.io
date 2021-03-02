@@ -67,12 +67,8 @@ Now let's go back to our repo and click Index md and then click pencil icon to e
 Add the following to top <code class="language-plaintext highlighter-rouge">[Home](index.md) | [Contact](contact.md) | [About](about.md)</code> and then click commit changes ![figure 54.jpg](/assets/images/figure 54.jpg){:class="img-responsive"}  
 
 Add the same to the top of contact.md and about.md and save and we should now have something like this ![figure 55.jpg](/assets/images/figure 55.jpg){:class="img-responsive"} 
-` `  
-` `  
-` `    
-
-
-
+&nbsp;
+&nbsp;  
 in our next post we will set up the blog and post folder 
 
 
