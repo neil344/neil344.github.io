@@ -1,6 +1,6 @@
 ---
 title: Neil Walls 
-title colour:#000000
+feature_image: assets/images/Home.jpg
 aside: true
 ---
 
