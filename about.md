@@ -1,7 +1,6 @@
 ---
 title: Create a free website using Github pages. | 
-title colour: #000000
-feature_image: assets/images/About.jpg
+header: /images/About.jpg
 ---
 
 
