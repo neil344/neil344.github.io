@@ -1,6 +1,6 @@
 ---
 title: Neil Walls 
-feature_image: assets/images/Home.jpg
+feature_image: assets/images/About.jpg
 ---
 
 
