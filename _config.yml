@@ -110,7 +110,8 @@ navigation_header:
   Blog: /blog/
   Categories: /categories/
   Search: /search/
-  About: /about/
+  About: /about/#About
+feature_image: assets/images/About.jpg
 
 navigation_footer: 
   Created by Neil Walls:
