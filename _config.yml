@@ -80,10 +80,7 @@ defaults:
       image: "/assets/default-social-image.png" # Default image for sharing 
 
 scope:
-      path: "About"
       values:
-      image: "/assets/images/About.jpg" # Default image for sharing 
-
 # 7. Site settings
 encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
@@ -115,7 +112,8 @@ navigation_header:
   Blog: /blog/
   Categories: /categories/
   Search: /search/
-  About: /about/
+  About: /about/ 
+  Neil: /neil/
 
 navigation_footer: 
   Created by Neil Walls:
