@@ -1,8 +1,9 @@
 ---
-title: Neil Walls 
-feature text: | 
- #About
-feature_image: assets/images/About.jpg
+title: Create a free website using Github pages 
+feature_text: |
+ # Fine Wine 
+feature_image: assets/images/about.jpg
+excerpt: "Ever wanted your own website for free, well today we will do this using gitbub pages."
 ---
 
 
