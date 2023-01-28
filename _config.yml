@@ -110,8 +110,9 @@ navigation_header:
   Blog: /blog/
   Categories: /categories/ 
   Neil: /neil/ 
-  About: /about/
   Search: /search/
+  About: /about/
+  
   
 
   navigation_footer: 
