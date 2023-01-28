@@ -1,5 +1,6 @@
 ---
 title: Neil Walls 
+feature_image: assets/images/Home.jpg
 aside: true
 ---
 
