@@ -1,9 +1,6 @@
 ---
-title: Create a free website using Github pages 
-feature_text: |
- # Fine Wine 
+title: Create a free website using Github pages. |
 feature_image: assets/images/About.jpg
-excerpt: "get there in the end and hopefully where I go wrong will help others on to the right track."
 ---
 
 
