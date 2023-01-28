@@ -113,7 +113,7 @@ navigation_header:
   Search: /search/
   About: /about/
   
-  navigation_footer: 
+navigation_footer: 
   Created by Neil Walls:
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
