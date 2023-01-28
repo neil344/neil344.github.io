@@ -1,5 +1,7 @@
 ---
 title: Neil Walls 
+feature text: | 
+ #About
 feature_image: assets/images/About.jpg
 ---
 
