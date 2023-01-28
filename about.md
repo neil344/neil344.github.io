@@ -2,8 +2,8 @@
 title: Create a free website using Github pages 
 feature_text: |
  # Fine Wine 
-feature_image: assets/images/about.jpg
-excerpt: "Ever wanted your own website for free, well today we will do this using gitbub pages."
+feature_image: assets/images/About.jpg
+excerpt: "get there in the end and hopefully where I go wrong will help others on to the right track."
 ---
 
 
