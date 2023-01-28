@@ -1,6 +1,6 @@
 ---
 title: Create a free website using Github pages. | 
-header: /images/About.jpg
+feature_image: "/assets/images/About.jpg"
 ---
 
 
