@@ -110,7 +110,8 @@ navigation_header:
   Blog: /blog/
   Categories: /categories/
   Search: /search/
-  Neil: /neil/ 
+  Neil: /neil/ header: "/assets/images/feature-image.jpg"
+
   About: /about/
 
 navigation_footer: 
