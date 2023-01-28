@@ -79,8 +79,6 @@ defaults:
     values:
       image: "/assets/default-social-image.png" # Default image for sharing 
 
-scope:
-      values:
 # 7. Site settings
 encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
