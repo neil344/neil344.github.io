@@ -45,15 +45,15 @@ email: myemail@gmail.com
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
 # normal = 560px / large = 810px
-width: large
+width: normal
 
 # if you do/don't need pagination, toggle 'enabled' between true/false below
-#pagination:
-  #enabled: false
-  #sort_reverse: true # display recent posts first
-  #title: ":title" # Changing this will mess up the header display logic
-  #per_page: 5
-  #permalink: "/:num/" # pagination link that will be appended
+pagination:
+  enabled: false
+  sort_reverse: true # display recent posts first
+  title: ":title" # Changing this will mess up the header display logic
+  per_page: 5
+  permalink: "/:num/" # pagination link that will be appended
 
  projects: true
 
@@ -76,7 +76,7 @@ width: large
 #post-advance-links: false
 
 # show author block at the end of a post ?
-#show-author: true
+show-author: true
 
 # do you want some animations?
 animation: true
