@@ -55,7 +55,7 @@ pagination:
   per_page: 5
   permalink: "/:num/" # pagination link that will be appended
 
- projects: true
+ projects: false
 
  about: true
  
