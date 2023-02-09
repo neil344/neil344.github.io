@@ -1,6 +1,7 @@
 ---
 title: Rules
-layout: page
+layout: page 
+permalink: /rules/index.html
 --- 
 
 
