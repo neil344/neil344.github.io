@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Rules
-permalink: https://neil344.github.io
+permalink: /rules/
 ---
 
 ## Rules
