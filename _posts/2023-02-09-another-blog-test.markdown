@@ -1,7 +1,7 @@
 ---
-title: "Another Blog test"
+title: "Another Blog"
 layout: post
-date: 2023-02-09 22:44
+date: 2023-02-09 22:10
 headerImage: false
 
 category: blog
