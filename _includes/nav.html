@@ -12,15 +12,17 @@
                     <a class="link" href="{{ site.url }}/blog">Blog</a>
                 </li>
             {% endif %}
+	    
         {% endif %} 
 	    
 	{% if site.leaderboard == true %}
-            {% if page.title != "Leaderboard" %}
+            {% if page.title != "leaderboard" %}
                 <li class="item">
-                    <a class="link" href="{{ if site.resume-external }{ site.resume-url }}{% else %}{{ site.url }}/{{ site.resume-url }}{% endif %}">leaderboard</a>/
+                    <a class="link" href="{{ if site.resume-external }{ site.resume-url }}{% else %}{{ site.url }}/{{ site.resume-url }}{% endif %}">leaderboard</a>
                 </li>
             {% endif %}
-        {% endif %}    
+	    
+	 {% endif %}    
 		
 	{% if site.projects == true %}
             {% if page.title != "Projects" %}
@@ -28,6 +30,7 @@
                     <a class="link" href="{{ site.url }}/projects">Projects</a>
                 </li>
             {% endif %}
+	    
         {% endif %} 
     
         {% if site.rules == true %}
@@ -36,6 +39,7 @@
                     <a class="link" href="{{ site.url }}/rules">Rules</a>
                 </li>
             {% endif %}
+	    
         {% endif %}
 		
         {% if site.about == true %}
@@ -44,6 +48,7 @@
                     <a class="link" href="{{ site.url }}/about">About</a>
                 </li>
             {% endif %}
+	    
         {% endif %}
 
         {% if site.resume == true %}
