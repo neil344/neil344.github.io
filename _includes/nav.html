@@ -14,7 +14,6 @@
             {% endif %}
         {% endif %} 
 	    
-	    
 	{% if site.leaderboard == true %}
             {% if page.title != "Leaderboard" %}
                 <li class="item">
@@ -23,8 +22,7 @@
             {% endif %}
         {% endif %}    
 		
-	
-        {% if site.projects == true %}
+	{% if site.projects == true %}
             {% if page.title != "Projects" %}
                 <li class="item">
                     <a class="link" href="{{ site.url }}/projects">Projects</a>
@@ -32,8 +30,7 @@
             {% endif %}
         {% endif %} 
     
-    
-	        {% if site.rules == true %}
+        {% if site.rules == true %}
             {% if page.title != "Rules" %}
                 <li class="item">
                     <a class="link" href="{{ site.url }}/rules">Rules</a>
