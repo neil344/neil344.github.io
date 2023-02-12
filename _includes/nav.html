@@ -12,7 +12,16 @@
                     <a class="link" href="{{ site.url }}/blog">Blog</a>
                 </li>
             {% endif %}
-        {% endif %}
+        {% endif %} 
+	    
+	    
+	{% if site.projects == true %}
+            {% if page.title != "Leaderboard" %}
+                <li class="item">
+                    <a class="link" href="{{ site.url }}/leaderboard">Leaderboard</a>
+                </li>
+            {% endif %}
+        {% endif %}    
 		
 	
         {% if site.projects == true %}
