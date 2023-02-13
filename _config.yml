@@ -65,7 +65,6 @@ blog: true
 rules: true
 
 leaderboard: true
-leaderboard-external: true
 leaderboard-url: https://arcane.bot/leaderboard/wine
 
 # do you want to show the "read time" of the posts?
