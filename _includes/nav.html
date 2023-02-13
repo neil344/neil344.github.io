@@ -43,8 +43,9 @@
         {% endif %}
 		
         {% if site.leaderboard == true %}
-            <li class="item">
-                <a class="link" href="{% if site.leaderboard-external %}{{ site.leaderboard-url }}{% else %}{{ site.url }}/{{ site.leaderboard-url }}{% endif %}">Leaderboard</a>
+            {% if page.title != "Leaderboard" %}
+                <li class="item">
+                    <a class="link" href="{{ site.url }}/leaderboard">Leaderboard</a>
                 </li>
             {% endif %}
 	    
