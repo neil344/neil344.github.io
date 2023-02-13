@@ -43,9 +43,9 @@
         {% endif %}
 		
         {% if site.leaderboard == true %}
-            {% if page.title != "Leaderboard" %}
-                <li class="item">
-                    <a class="link" href="{{ site.url }}/leaderboard">Leaderboard</a>
+            <li class="item">
+                <a class="link" href="{{ site.leaderboard-url }} target="_blank">Leaderboard <span style="transform: scaleX(-1); display: inline-block;" >⇱</span></a>
+            </li>
                 </li>
             {% endif %}
 	    
