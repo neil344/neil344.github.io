@@ -65,7 +65,7 @@ blog: true
 rules: true
 
 leaderboard: true 
-leaderboard-url: https://arcane.bot/leaderboard/wine
+leaderboard-url: https://discord.com/channels/981955209603473428/981977328303362089
 
 # do you want to show the "read time" of the posts?
 read-time: true
